@@ -1,22 +1,32 @@
 .yesterday {
   color: pink;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 
 .vacation {
   color: red;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .halloween {
   color: orange;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .school {
   color: blue;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .me {
   text-decoration: underline;
   font-family: sans-serif;
   font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
