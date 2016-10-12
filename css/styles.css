@@ -1,0 +1,22 @@
+.yesterday {
+  color: pink;
+}
+
+
+.vacation {
+  color: red;
+}
+
+.halloween {
+  color: orange;
+}
+
+.school {
+  color: blue;
+}
+
+.me {
+  text-decoration: underline;
+  font-family: sans-serif;
+  font-weight: bold;
+}
